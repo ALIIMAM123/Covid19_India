@@ -1,0 +1,37 @@
+# GET 
+ http://localhost:3000/states/
+
+###
+# GET PARTICULAR ITEM
+ http://localhost:3000/states/8/
+
+###
+
+ #GET PARTICULAR DISTRICT
+ http://localhost:3000/districts/385/
+
+###
+
+# POST 
+ http://localhost:3000/districts/
+
+###
+
+# DELETE
+ http://localhost:3000/districts/15/
+
+###
+
+# PUT 
+
+ http://localhost:3000/districts/10/
+
+###
+
+#  GET
+ http://localhost:3000/states/8/Delhi/
+
+###
+
+#GET
+ http://localhost:3000/districts/:10/details/
